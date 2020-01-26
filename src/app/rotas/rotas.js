@@ -6,7 +6,7 @@ module.exports = app => {
                             <meta charset="utf-8">
                         </head>
                         <body>
-                            <h1> Casa do Código </h1>
+                            <h1> Casa do Codigo </h1>
                         </body> 
                     </html>
                 `);
