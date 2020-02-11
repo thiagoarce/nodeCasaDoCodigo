@@ -16,3 +16,7 @@ No segundo parâmetro de resp.marko é possível adicionar data e renderizar de 
 Com o sqlite é possível adicionar o banco de dados para persistir dados e lançar no template
 
 Com padrão DAO a responsabilidade do acesso aos dados fica encapsulado
+
+app.get/post define o método
+
+Usa-se o body-parser como middleware para tratar o corpo da requisição
