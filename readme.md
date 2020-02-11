@@ -14,3 +14,5 @@ Marko: Usado para criar templates. Instalação: `npm install marko --save`. Os 
 No segundo parâmetro de resp.marko é possível adicionar data e renderizar de modo dinâmico usando um laço for no arquivo .marko
 
 Com o sqlite é possível adicionar o banco de dados para persistir dados e lançar no template
+
+Com padrão DAO a responsabilidade do acesso aos dados fica encapsulado
